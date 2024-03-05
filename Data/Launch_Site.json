@@ -1,0 +1,296 @@
+[
+ {
+   "Country": "Argentina",
+   "ID": "PB",
+   "Site_name": "Base Naval Puerto Belgrano",
+   "Location": "Punta Alta, Coronel Rosales Partido",
+   "Status": "Project"
+ },
+ {
+   "Country": "Australia",
+   "ID": "Wo",
+   "Site_name": "Woomera Instrumented Range",
+   "Location": "Woomera, South Australia",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Brazil",
+   "ID": "Al",
+   "Site_name": "Alcantara Space Center (CLA)",
+   "Location": "",
+   "Status": "Completed"
+ },
+ {
+   "Country": "China",
+   "ID": "Jq",
+   "Site_name": "Jiuquan Space Center",
+   "Location": "Inner Mongolia",
+   "Status": "Completed"
+ },
+ {
+   "Country": "China",
+   "ID": "TY",
+   "Site_name": "Taiyuan Satellite Launch Center (TSLC)",
+   "Location": "Wuzhai, Shanxi",
+   "Status": "Completed"
+ },
+ {
+   "Country": "China",
+   "ID": "We",
+   "Site_name": "Wenchang Space Launch Center (WSLC)",
+   "Location": "Hainan",
+   "Status": "Completed"
+ },
+ {
+   "Country": "China",
+   "ID": "Xi",
+   "Site_name": "Xichang Space Center (Songlin)",
+   "Location": "Sichuan",
+   "Status": "Completed"
+ },
+ {
+   "Country": "France",
+   "ID": "Ko",
+   "Site_name": "Centre Spatial Guyanais (CSG)",
+   "Location": "Kourou",
+   "Status": "Completed"
+ },
+ {
+   "Country": "India",
+   "ID": "Sr",
+   "Site_name": "Satish Dhawan Space Center (Sriharikota Space Center)",
+   "Location": "Sriharikota, Andhra Pradesh",
+   "Status": "Completed"
+ },
+ {
+   "Country": "International",
+   "ID": "SL",
+   "Site_name": "Sea Launch Platform",
+   "Location": "Pacific Ocean near Kiritimati (Christmas Island)",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Iran",
+   "ID": "Sem",
+   "Site_name": "Semnan Satellite Launch Center",
+   "Location": " Semnan province",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Iran",
+   "ID": "Shr",
+   "Site_name": "Shahroud Missile Test Site",
+   "Location": " Tehran province",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Israel",
+   "ID": "Pa",
+   "Site_name": "Israeli Air Force Test Range",
+   "Location": "Palmachim",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Italy",
+   "ID": "SM",
+   "Site_name": "San Marco Launch Complex",
+   "Location": "Formosa Bay",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Japan",
+   "ID": "Ka",
+   "Site_name": "Kagoshima Space Center / Uchinoura Space Center",
+   "Location": "Kagoshima, Kyushu",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Japan",
+   "ID": "Ta",
+   "Site_name": "Tanegashima Space Center",
+   "Location": "Tanegashima",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Kazakhstan",
+   "ID": "Ba",
+   "Site_name": "Baikonur (Tyuratam, NIIP-5, GIK-5)",
+   "Location": "Tyuratam",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Marshall Islands",
+   "ID": "Kw",
+   "Site_name": "Kwajalein Island, Reagan Test Site (formerly Kwajalein Missile Range)",
+   "Location": "US Army Kwajalein Atoll (USAKA)",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Marshall Islands",
+   "ID": "Om",
+   "Site_name": "Omelek Island",
+   "Location": "Kwajalein",
+   "Status": "Completed"
+ },
+ {
+   "Country": "New Zealand",
+   "ID": "OnS",
+   "Site_name": "Onenui Station",
+   "Location": "Mahia, Wairoa, North Island",
+   "Status": "Completed"
+ },
+ {
+   "Country": "North Korea",
+   "ID": "So",
+   "Site_name": "Sŏhae Satellite Center",
+   "Location": "Ch’ŏlsan County, North P’yŏngan Province",
+   "Status": "Completed"
+ },
+ {
+   "Country": "North Korea",
+   "ID": "To",
+   "Site_name": "Tonghae (Musudan-ri)",
+   "Location": "Hwadae County, Hamgyong Province",
+   "Status": "Completed"
+ },
+ {
+   "Country": "South Korea",
+   "ID": "Na",
+   "Site_name": "Naro Space Center",
+   "Location": "Goheung County, South Jeolla",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Spain",
+   "ID": "Ga",
+   "Site_name": " Base Aerea de Gando",
+   "Location": "Gran Canaria",
+   "Status": "Temporary"
+ },
+ {
+   "Country": "Taiwan",
+   "ID": "Ttg",
+   "Site_name": "?",
+   "Location": "Taitung County",
+   "Status": "Project"
+ },
+ {
+   "Country": "the United Kingdom",
+   "ID": "AMh",
+   "Site_name": "A’Mhoine",
+   "Location": "Sutherland, Scotland",
+   "Status": "Project"
+ },
+ {
+   "Country": "the United Kingdom",
+   "ID": "Nq",
+   "Site_name": "Spaceport Cornwall, Newquay",
+   "Location": "Cornwall, England",
+   "Status": "Project"
+ },
+ {
+   "Country": "the United States of America",
+   "ID": "BC",
+   "Site_name": "Boca Chica Beach",
+   "Location": "Boca Chica, Texas",
+   "Status": "Temporary"
+ },
+ {
+   "Country": "the the United States of America",
+   "ID": "CC",
+   "Site_name": "Cape Canaveral Air Force Station",
+   "Location": "Eastern Test Range, Cape Canaveral, Florida",
+   "Status": "Completed"
+ },
+ {
+   "Country": "the United States of America",
+   "ID": "Ed",
+   "Site_name": "Edwards AFB",
+   "Location": "California",
+   "Status": "Completed"
+ },
+ {
+   "Country": "the United States of America",
+   "ID": "In",
+   "Site_name": "Inyokern airfield, Naval Ordnance Test Station",
+   "Location": "China Lake, California",
+   "Status": "Temporary"
+ },
+ {
+   "Country": "the United States of America",
+   "ID": "Kau",
+   "Site_name": "Kauai Test Facility (KTF) (Pacific Missile Range Facility)",
+   "Location": "Barking Sands, Kauai",
+   "Status": "Completed"
+ },
+ {
+   "Country": "the United States of America",
+   "ID": "Kd",
+   "Site_name": "Pacific Spaceport Complex - Alaska (Kodiak Launch Complex)",
+   "Location": "Kodiak Island, Narrow Cape, Alaska",
+   "Status": "Completed"
+ },
+ {
+   "Country": "the United States of America",
+   "ID": "Va",
+   "Site_name": "Vandenberg AFB",
+   "Location": "California",
+   "Status": "Completed"
+ },
+ {
+   "Country": "the United States of America",
+   "ID": "WI",
+   "Site_name": "Wallops Flight Facility",
+   "Location": "Wallops Island, Virginia",
+   "Status": "Completed"
+ },
+ {
+   "Country": "the United States of America",
+   "ID": "WI",
+   "Site_name": "Mid-Atlantic Regional Spaceport (MARS)",
+   "Location": "Wallops Island, Virginia",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Russia",
+   "ID": "Ba",
+   "Site_name": "Baikonur (Tyuratam, NIIP-5, GIK-5)",
+   "Location": "Tyuratam",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Russia",
+   "ID": "Do",
+   "Site_name": "Yasniy site, Dombarovskiy Air Base",
+   "Location": "Orenburgskaya Oblast'",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Russia",
+   "ID": "KY",
+   "Site_name": "Kapustin Yar (GTsP-4, GTsMP-4)",
+   "Location": "Volgograd",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Russia",
+   "ID": "Pl",
+   "Site_name": "Plesetsk (NIIP-53, GIK-1, GNIIP)",
+   "Location": "",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Russia",
+   "ID": "Sv",
+   "Site_name": "Svobodniy (GIK-2)",
+   "Location": "Amurskaya Oblast'",
+   "Status": "Completed"
+ },
+ {
+   "Country": "Russia",
+   "ID": "Vo",
+   "Site_name": "Vostochniy",
+   "Location": "Amurskaya Oblast'",
+   "Status": "Completed"
+ }
+]

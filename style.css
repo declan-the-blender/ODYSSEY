@@ -1,0 +1,97 @@
+body {
+  width, height: 100%;
+  background-color: white;
+  padding-left: 50px;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+#chronology {
+  height: 700px;
+  width: 1400px;
+  overflow: scroll;
+}
+
+#numberofyear {
+  width: 25%;
+  margin-left: 20px;
+  padding: 10px;
+  margin-bottom: 0px;
+  font-size: 20px;
+  color: black;
+  font-family: 'Gotham'
+}
+
+.stickyDiv {
+  height: 100vh;
+  width: 100%;
+  top: 0;
+  z-index: -1;
+  position: sticky;
+  font-family: 'Gotham';
+}
+
+#purple {
+  font-size: 50px;
+  color: black;
+  font-weight: bold;
+  font-family: 'Gotham';
+}
+
+#purple2 {
+  color: black;
+  /* font-weight: bold; */
+  font-family: 'Gotham';
+}
+
+#orange {
+  font-size: 50px;
+  color: black;
+  font-weight: bold;
+  font-family: 'Gotham';
+}
+
+#orange2 {
+  color: black;
+  font-weight: bold;
+  font-family: 'Gotham';
+}
+
+.scrollingContent div {
+  width: 25%;
+  margin-left: 20px;
+  padding: 10px;
+  /* background-color: black;
+  opacity: 60%; */
+  margin-bottom: 500px;
+  font-size: 20px;
+  color: black
+  font-family: 'Gotham'
+}
+
+.scrollingContent div:last-child {
+  margin-bottom: 500px;
+  font-family: 'Gotham';
+}
+
+.ending {
+  width: 25%;
+  height: 1300px;
+  font-family: 'Gotham';
+}
+
+#thanks {
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  font-family: 'Gotham'
+}
+
+#thankyou {
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  font-family: 'Gotham'
+}

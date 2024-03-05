@@ -1,0 +1,326 @@
+[
+ {
+   "Year": 1944,
+   "Date": "June 20, 1944",
+   "Name": "First artificial object in outer space, i.e. beyond the Kármán line",
+   "Mission": "V-2 rocket, test flight",
+   "Person(s)": "– N/A",
+   "Country": "Germany",
+   "Day": "0"
+ },
+ {
+   "Year": 1946,
+   "Date": "October 24, 1946",
+   "Name": "First pictures from space (105 km)",
+   "Mission": "U.S.-launched V-2 rocket from White Sands Missile Range, New Mexico.",
+   "Person(s)": "– N/A",
+   "Country": "United States",
+   "Day": "856"
+ },
+ {
+   "Year": 1947,
+   "Date": "February 20, 1947",
+   "Name": "First animals in space",
+   "Mission": "U.S.-launched V-2 rocket on 20 February 1947 from White Sands Missile Range, New Mexico.",
+   "Person(s)": "- fruit flies",
+   "Country": "United States",
+   "Day": "975"
+ },
+ {
+   "Year": 1957,
+   "Date": "October 4, 1957",
+   "Name": "First artificial satellite",
+   "Mission": "Sputnik 1[24]",
+   "Person(s)": "– N/A",
+   "Country": "Soviet Union",
+   "Day": "4854"
+ },
+ {
+   "Year": 1957,
+   "Date": "November 3, 1957",
+   "Name": "First animal in orbit",
+   "Mission": "Sputnik 2[26]",
+   "Person(s)": "Laika the dog",
+   "Country": "Soviet Union",
+   "Day": "4885"
+ },
+ {
+   "Year": 1959,
+   "Date": "January 2, 1959",
+   "Name": "First lunar flyby, and first spacecraft to achieve a heliocentric orbit",
+   "Mission": "Luna 1",
+   "Person(s)": "– N/A",
+   "Country": "Soviet Union",
+   "Day": "5310"
+ },
+ {
+   "Year": 1959,
+   "Date": "September 12, 1959",
+   "Name": "First impacted on the Lunar surface; thereby becoming the first human object to reach another celestial body",
+   "Mission": "Luna 2[28]",
+   "Person(s)": "– N/A",
+   "Country": "Soviet Union",
+   "Day": "5562"
+ },
+ {
+   "Year": 1959,
+   "Date": "October 7, 1959",
+   "Name": "First pictures of the far side of the Moon",
+   "Mission": "Luna 3",
+   "Person(s)": "– N/A",
+   "Country": "Soviet Union",
+   "Day": "5587"
+ },
+ {
+   "Year": 1961,
+   "Date": "April 12, 1961",
+   "Name": "First human in space",
+   "Mission": "Vostok 1",
+   "Person(s)": "Yuri Gagarin",
+   "Country": "Soviet Union",
+   "Day": "6140"
+ },
+ {
+   "Year": 1961,
+   "Date": "May 5, 1961",
+   "Name": "First manual orientation of crewed spacecraft and first human space mission that landed with pilot still in spacecraft, thus the first complete human spaceflight by FAI definitions",
+   "Mission": "Freedom 7",
+   "Person(s)": "Alan Shepard",
+   "Country": "United States",
+   "Day": "6163"
+ },
+ {
+   "Year": 1962,
+   "Date": "December 14, 1962",
+   "Name": "First successful flyby of another planet (Venus closest approach 34,773 kilometers)",
+   "Mission": "Mariner 2",
+   "Person(s)": "– N/A",
+   "Country": "United States",
+   "Day": "6751"
+ },
+ {
+   "Year": 1965,
+   "Date": "March 18, 1965",
+   "Name": "First spacewalk",
+   "Mission": "Voskhod 2",
+   "Person(s)": "Alexei Leonov",
+   "Country": "Soviet Union",
+   "Day": "7576"
+ },
+ {
+   "Year": 1965,
+   "Date": "December 15, 1965",
+   "Name": "First space rendezvous",
+   "Mission": "Gemini 6A[37] and Gemini 7",
+   "Person(s)": "Schirra, Stafford, Borman, Lovell",
+   "Country": "United States",
+   "Day": "7848"
+ },
+ {
+   "Year": 1966,
+   "Date": "February 3, 1966",
+   "Name": "First soft landing on the Moon by a spacecraft",
+   "Mission": "Luna 9",
+   "Person(s)": "– N/A",
+   "Country": "Soviet Union",
+   "Day": "7898"
+ },
+ {
+   "Year": 1966,
+   "Date": "March 1, 1966",
+   "Name": "First human-made object to impact another planet",
+   "Mission": "Venera 3",
+   "Person(s)": "– N/A",
+   "Country": "Soviet Union",
+   "Day": "7924"
+ },
+ {
+   "Year": 1966,
+   "Date": "March 16, 1966",
+   "Name": "First orbital docking between two spacecraft",
+   "Mission": "Gemini 8[42] & Agena Target Vehicle",
+   "Person(s)": "Neil Armstrong, David Scott",
+   "Country": "United States",
+   "Day": "7939"
+ },
+ {
+   "Year": 1966,
+   "Date": "April 3, 1966",
+   "Name": "First artificial satellite of another celestial body (other than the Sun)",
+   "Mission": "Luna 10",
+   "Person(s)": "– N/A",
+   "Country": "Soviet Union",
+   "Day": "7957"
+ },
+ {
+   "Year": 1967,
+   "Date": "October 18, 1967",
+   "Name": "First spacecraft to perform transmit data from the atmosphere of another planet",
+   "Mission": "Venera 4",
+   "Person(s)": "– N/A",
+   "Country": "Soviet Union",
+   "Day": "8155"
+ },
+ {
+   "Year": 1968,
+   "Date": "December 21–27, 1968",
+   "Name": "First humans to enter the gravitational influence of another celestial body (the Moon) and orbit it",
+   "Mission": "Apollo 8",
+   "Person(s)": "Borman, Lovell, Anders",
+   "Country": "United States",
+   "Day": "8950"
+ },
+ {
+   "Year": 1969,
+   "Date": "July 20, 1969",
+   "Name": "First humans land and walk on another celestial body (Moon)",
+   "Mission": "Apollo 11",
+   "Person(s)": "Neil Armstrong, Buzz Aldrin",
+   "Country": "United States",
+   "Day": "9161"
+ },
+ {
+   "Year": 1970,
+   "Date": "December 15, 1970",
+   "Name": "First telemetry from the surface of another planet",
+   "Mission": "Venera 7",
+   "Person(s)": "– N/A",
+   "Country": "Soviet Union",
+   "Day": "9674"
+ },
+ {
+   "Year": 1971,
+   "Date": "April 19, 1971",
+   "Name": "First operational space station",
+   "Mission": "Salyut 1",
+   "Person(s)": "– N/A",
+   "Country": "Soviet Union",
+   "Day": "9799"
+ },
+ {
+   "Year": 1971,
+   "Date": "June 7, 1971",
+   "Name": "First resident crew",
+   "Mission": "Soyuz 11 (Salyut 1)",
+   "Person(s)": "Georgy Dobrovolsky, Vladislav Volkov, Viktor Patsayev",
+   "Country": "Soviet Union",
+   "Day": "9848"
+ },
+ {
+   "Year": 1976,
+   "Date": "July 20, 1976",
+   "Name": "First pictures from the surface of Mars",
+   "Mission": "Viking 1",
+   "Person(s)": "– N/A",
+   "Country": "United States",
+   "Day": "11718"
+ },
+ {
+   "Year": 1981,
+   "Date": "April 12, 1981",
+   "Name": "First reusable orbital spaceship",
+   "Mission": "STS-1",
+   "Person(s)": "Young, Crippen",
+   "Country": "United States",
+   "Day": "13445"
+ },
+ {
+   "Year": 1986,
+   "Date": "February 19, 1986",
+   "Name": "First long-duration space station",
+   "Mission": "Mir",
+   "Person(s)": "– N/A",
+   "Country": "Soviet Union",
+   "Day": "15219"
+ },
+ {
+   "Year": 1990,
+   "Date": "February 14, 1990",
+   "Name": "First photograph of the whole Solar System",
+   "Mission": "Voyager 1",
+   "Person(s)": "– N/A",
+   "Country": "United States",
+   "Day": "16675"
+ },
+ {
+   "Year": 1998,
+   "Date": "November 20, 1998",
+   "Name": "First current space station",
+   "Mission": "International Space Station",
+   "Person(s)": "– N/A",
+   "Country": "Russia",
+   "Day": "19876"
+ },
+ {
+   "Year": 2012,
+   "Date": "August 25, 2012",
+   "Name": "First artificial space probe in interstellar space",
+   "Mission": "Voyager 1",
+   "Person(s)": "– N/A",
+   "Country": "United States",
+   "Day": "24903"
+ },
+ {
+   "Year": 2014,
+   "Date": "November 12, 2014",
+   "Name": "First artificial probe to make a planned and soft landing on a comet (67P/Churyumov–Gerasimenko)",
+   "Mission": "Rosetta",
+   "Person(s)": "– N/A",
+   "Country": "European Space Agency",
+   "Day": "25712"
+ },
+ {
+   "Year": 2015,
+   "Date": "July 14, 2015",
+   "Name": "First nation to have its space probes to explore all of the nine major planets recognized in 1981",
+   "Mission": "New Horizons",
+   "Person(s)": "– N/A",
+   "Country": "United States",
+   "Day": "25956"
+ },
+ {
+   "Year": 2015,
+   "Date": "December 20, 2015",
+   "Name": "First vertical landing of an orbital rocket booster on a ground pad.",
+   "Mission": "Falcon 9 flight 20",
+   "Person(s)": "– N/A",
+   "Country": "United States",
+   "Day": "26116"
+ },
+ {
+   "Year": 2016,
+   "Date": "April 8, 2016",
+   "Name": "First vertical landing of an orbital rocket booster on a floating platform at sea.",
+   "Mission": "SpaceX CRS-8",
+   "Person(s)": "– N/A",
+   "Country": "United States",
+   "Day": "26226"
+ },
+ {
+   "Year": 2017,
+   "Date": "March 30, 2017",
+   "Name": "First relaunch and second landing of a used orbital rocket booster.",
+   "Mission": "SES-10",
+   "Person(s)": "– N/A",
+   "Country": "United States",
+   "Day": "26582"
+ },
+ {
+   "Year": 2019,
+   "Date": "January 3, 2019",
+   "Name": "First soft landing on the lunar far side by a spacecraft.",
+   "Mission": "Chang'e 4",
+   "Person(s)": "– N/A",
+   "Country": "China",
+   "Day": "27226"
+ },
+ {
+   "Year": 2020,
+   "Date": "May 30, 2020",
+   "Name": "First human orbital spaceflight launched by a private company.",
+   "Mission": "Crew Dragon Demo-2/Crew Demo-2/SpaceX Demo-2/Dragon Crew Demo-2",
+   "Person(s)": "Bob Behnken, Doug Hurley",
+   "Country": "United States",
+   "Day": "27739"
+ }
+]

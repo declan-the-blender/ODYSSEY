@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Space Odyssey</title>
+
+  <!-- stylesheet -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- include the d3 library -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://unpkg.com/enter-view"></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Mono:wght@200&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Krona+One&family=Zen+Dots&display=swap" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+  <div id="container">
+  </div>
+
+  <div id="introduction">
+    <img src="Sputnik_1.png" alt="Italian Trulli">
+  </div>
+
+  <div id="chronology">
+  </div>
+
+  <div class="stickyDiv">
+    <div id="piechart">
+    </div>
+  </div>
+
+  <div class="scrollingContent">
+    <div class="trigger1">
+      <p class=""><span id="purple2">Spaceflights that are launched into outer space can be categorized into <span id="orange2"> orbital spaceflights </span> and <span id="orange2"> suborbital spaceflights.</span></span></p>
+    </div>
+    <div class="trigger2">
+      <p class=""><span id="purple2">Since 1957, there are more than <span id="purple"> 6,018 </span> <span id="orange2">launch attempts for orbital spaceflights</span>, which means the spaceflight is placed on a trajectory where it could remain in space for at least
+        one orbit.</span></p>
+    </div>
+    <div class="trigger3">
+      <p class=""><span id="purple2">And <span id="orange"> 29,455 </span> <span id="orange2">launch attempts for suborbital spaceflights</span>, which means that the spaceflight will not complete one orbital revolution.</span></p>
+    </div>
+    <div class="trigger4">
+      <p class=""><span id="purple2">The following story will focus on <span id="orange2"> orbital spaceflights.</span></span></p>
+    </div>
+  </div>
+
+  <div id="launchsite">
+    <p id="numberofyear">There are <span id="purple"> 21 </span> countries and regions with launch sites for orbital spaceflights. They are hightlighted in <span id="purple2"> black </span> in the map below.</p>
+  </div>
+
+  <div id="launchsitecountries">
+  </div>
+
+  <!-- <section> -->
+  <!-- <div class="stickyDiv"> -->
+  <div id="barchart">
+    <p id="numberofyear">And the number of orbital launches per year from 1957 to 2020. </br></br> Hover on the bar to see the number.</p>
+  </div>
+
+  <p id="numberofyear">Among the 6000+ launch attempts for orbiting spaceflights, there are <span id="purple"> 3,372 </span> <span id="purple2">satellites</span> that are currently orbiting around the earth.</p>
+</br>
+<p id="numberofyear">Here is a timeline of the operational satellites. </br></p>
+</br>
+</br>
+</br>
+  <div id="orbitingsatellite">
+  </div>
+
+  <div id="ending">
+    <p id="thanks">Thanks for Reading :)</p>
+    <p id = "thankyou">The datasets used in this project come from <a href="https://space.skyrocket.de/">Gunter's Space Page</a>, <a href="https://www.ucsusa.org/resources/satellite-database">UCS Satellite Database</a>, and <a href="https://en.wikipedia.org/wiki/Space_Age">Wikipedia</a>.</p>
+  </div>
+  <!-- our main script: -->
+</body>
+
+<script type="text/javascript" src="script.js"></script>
+</html>
